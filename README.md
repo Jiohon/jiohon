@@ -1,4 +1,12 @@
-## Hi  👋
+## Hey im J 
+
+![](https://visitor-badge.glitch.me/badge?page_id=hushed3.hushed3)
+
+- 🌱 I’m currently learning ...
+
+**社区主页**  
+
+- [blog](https://blog.hushes.cn/)
 
 <!--
 **hushed3/hushed3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
